@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.bundle.js';
@@ -17,7 +16,7 @@ function App() {
     </div>
     <div className="glass-container">
         <div className="login-header">
-            <img src={Logo} width={130}  />
+            <img src={Logo} width={130} alt="login" />
             <h1>Welcome To Fusionuks</h1>
             <p>Sign in to your account to continue</p>
         </div>
@@ -61,7 +60,7 @@ function App() {
 
             <p className="register-link">
                 Don't have an account?
-                <a href="#">Sign up</a>
+                <a href="/login">Sign up</a>
             </p>
         </form>
     </div>
