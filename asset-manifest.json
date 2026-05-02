@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Login-page/static/css/main.01dcb939.css",
+    "main.js": "/Login-page/static/js/main.6f1f7fb0.js",
+    "static/js/453.bc56c95c.chunk.js": "/Login-page/static/js/453.bc56c95c.chunk.js",
+    "static/media/fa-solid-900.woff2": "/Login-page/static/media/fa-solid-900.ce9a3fa740bd60b4ac3b.woff2",
+    "static/media/Logo.png": "/Login-page/static/media/Logo.ba12686fb0d5b63d9f1e.png",
+    "static/media/fa-brands-400.woff2": "/Login-page/static/media/fa-brands-400.f276979f97f1cf375d23.woff2",
+    "static/media/fa-regular-400.woff2": "/Login-page/static/media/fa-regular-400.cfbad32c79d9dda6af4a.woff2",
+    "static/media/fa-v4compatibility.woff2": "/Login-page/static/media/fa-v4compatibility.296da06936a3373940c8.woff2",
+    "index.html": "/Login-page/index.html",
+    "main.01dcb939.css.map": "/Login-page/static/css/main.01dcb939.css.map",
+    "main.6f1f7fb0.js.map": "/Login-page/static/js/main.6f1f7fb0.js.map",
+    "453.bc56c95c.chunk.js.map": "/Login-page/static/js/453.bc56c95c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01dcb939.css",
+    "static/js/main.6f1f7fb0.js"
+  ]
+}
